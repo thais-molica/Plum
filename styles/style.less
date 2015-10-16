@@ -27,10 +27,15 @@
   mixins
 =========================*/
 
-.transform ( @translate : translate(-50%, -50%) ) {
-  -webkit-transform: @translate;
-      -ms-transform: @translate;
-          transform: @translate; 
+.transform ( @a : translate(-50%, -50%) ) {
+  -webkit-transform: @a;
+      -ms-transform: @a;
+          transform: @a;
+}
+.transition ( @a: all .5s ease ) {
+  -webkit-transition: @a;
+      -ms-transition: @a;
+          transition: @a;
 }
 /*=======================
   rest
@@ -323,6 +328,41 @@ footer {
       left: 50%;
       position: absolute;
   }
+}
+
+/*=======================
+  clientes
+=========================*/
+.clients {
+    li {
+        display: inline-block;
+        margin: 10px;
+        position: relative;
+        width: 25%;
+        img {
+            margin: 0;
+        }
+        .description {
+            .transition();
+            background: fade(@secondary-color, 70);
+            bottom: 0;
+            left: 0;
+            position: absolute;
+            right: 0;
+            text-align: center;
+            text-transform: uppercase;
+            top: 100%;
+        }
+        img {
+            max-width: 100%;
+        }
+        a {
+            color: @tertiary-color;
+            &:hover .description {
+                top: 0;
+            }
+        }
+    }
 }
 
 /*=======================

@@ -18,11 +18,38 @@
 				<ul>
 					<li>
 						<a href="classe-a.php">
-							<img src="http://dummyimage.com/310x206/000/fff" alt="">
-							<span>
+							<img src="http://dummyimage.com/310x206/ccc/fff" alt="">
+							<div class="description">
 								<h4>Comunicação Web</h4>
-								<span>Estratégias de marketing em redes sociais + Web site</span>
-							</span>
+								<p>Estratégias de marketing em redes sociais + Web site</p>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="classe-a.php">
+							<img src="http://dummyimage.com/310x206/ccc/fff" alt="">
+							<div class="description">
+								<h4>Comunicação Web</h4>
+								<p>Estratégias de marketing em redes sociais + Web site</p>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="classe-a.php">
+							<img src="http://dummyimage.com/310x206/ccc/fff" alt="">
+							<div class="description">
+								<h4>Comunicação Web</h4>
+								<p>Estratégias de marketing em redes sociais + Web site</p>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="classe-a.php">
+							<img src="http://dummyimage.com/310x206/ccc/fff" alt="">
+							<div class="description">
+								<h4>Comunicação Web</h4>
+								<p>Estratégias de marketing em redes sociais + Web site</p>
+							</div>
 						</a>
 					</li>
 				</ul>
