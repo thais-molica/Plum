@@ -18,7 +18,7 @@
 				<ul>
 					<li>
 						<a href="classe-a.php">
-							<img src="http://dummyimage.com/310x206/ccc/fff" alt="">
+							<img src="images/classe-a.jpg" alt="Classe A">
 							<div class="description">
 								<h4>Comunicação Web</h4>
 								<p>Estratégias de marketing em redes sociais + Web site</p>
@@ -27,7 +27,7 @@
 					</li>
 					<li>
 						<a href="classe-a.php">
-							<img src="http://dummyimage.com/310x206/ccc/fff" alt="">
+							<img src="images/hering.jpg" alt="Hering">
 							<div class="description">
 								<h4>Comunicação Web</h4>
 								<p>Estratégias de marketing em redes sociais + Web site</p>
@@ -36,7 +36,7 @@
 					</li>
 					<li>
 						<a href="classe-a.php">
-							<img src="http://dummyimage.com/310x206/ccc/fff" alt="">
+							<img src="images/aurora.jpg" alt="Aurora">
 							<div class="description">
 								<h4>Comunicação Web</h4>
 								<p>Estratégias de marketing em redes sociais + Web site</p>
@@ -45,7 +45,43 @@
 					</li>
 					<li>
 						<a href="classe-a.php">
-							<img src="http://dummyimage.com/310x206/ccc/fff" alt="">
+							<img src="images/unimed.jpg" alt="Unimed">
+							<div class="description">
+								<h4>Comunicação Web</h4>
+								<p>Estratégias de marketing em redes sociais + Web site</p>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="classe-a.php">
+							<img src="images/tigre.jpg" alt="Tigre">
+							<div class="description">
+								<h4>Comunicação Web</h4>
+								<p>Estratégias de marketing em redes sociais + Web site</p>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="classe-a.php">
+							<img src="images/tupy.jpg" alt="Tupy">
+							<div class="description">
+								<h4>Comunicação Web</h4>
+								<p>Estratégias de marketing em redes sociais + Web site</p>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="classe-a.php">
+							<img src="images/dohler.jpg" alt="Dohler">
+							<div class="description">
+								<h4>Comunicação Web</h4>
+								<p>Estratégias de marketing em redes sociais + Web site</p>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="classe-a.php">
+							<img src="images/tractebel.jpg" alt="Tractebel">
 							<div class="description">
 								<h4>Comunicação Web</h4>
 								<p>Estratégias de marketing em redes sociais + Web site</p>
