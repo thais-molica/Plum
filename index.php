@@ -2,7 +2,7 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="UTF-8">
-
+		
 		<?php include 'template/assets.php'; ?>
 
 		<title>Communica Plum</title>

@@ -15,7 +15,7 @@
 		<!--  container -->
 		<div class="wrapper">
 			<section class="wrapper-internal contact">
-				<h3>Com quem eu falo?</h3>
+				<h3>Quem ja passou por aqui?</h3>
 			</section>
 		</div>
 		<!--  //container -->

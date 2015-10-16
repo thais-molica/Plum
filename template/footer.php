@@ -3,9 +3,9 @@
     <nav class="nav-left">
       <h2>Comunica plum</h2>
       <ul>
-        <li><a href="do-comeco.php">Do começo</a></li>
-        <li><a href="o-que-fazemos.php">O que fazemos?</a></li>
-        <li><a href="quem-ja-passou-por-aqui">Quem já passou por aqui?</a></li>
+        <li><a href="index.php">Do começo</a></li>
+        <li><a href="o-que-fazemos.pdf" target="_blank">O que fazemos?</a></li>
+        <li><a href="quem-ja-passou-por-aqui.php">Quem já passou por aqui?</a></li>
         <li><a href="com-quem-eu-falo.php">Com quem eu falo?</a></li>
       </ul>
     </nav>
