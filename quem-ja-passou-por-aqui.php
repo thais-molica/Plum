@@ -26,7 +26,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="classe-a.php">
+						<a href="hering.php">
 							<img src="images/hering.jpg" alt="Hering">
 							<div class="description">
 								<h4>Comunicação Web</h4>
@@ -35,7 +35,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="classe-a.php">
+						<a href="aurora.php">
 							<img src="images/aurora.jpg" alt="Aurora">
 							<div class="description">
 								<h4>Comunicação Web</h4>
@@ -44,7 +44,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="classe-a.php">
+						<a href="unimed.php">
 							<img src="images/unimed.jpg" alt="Unimed">
 							<div class="description">
 								<h4>Comunicação Web</h4>
@@ -53,7 +53,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="classe-a.php">
+						<a href="tigre.php">
 							<img src="images/tigre.jpg" alt="Tigre">
 							<div class="description">
 								<h4>Comunicação Web</h4>
@@ -62,7 +62,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="classe-a.php">
+						<a href="tupy.php">
 							<img src="images/tupy.jpg" alt="Tupy">
 							<div class="description">
 								<h4>Comunicação Web</h4>
@@ -71,7 +71,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="classe-a.php">
+						<a href="dohler.php">
 							<img src="images/dohler.jpg" alt="Dohler">
 							<div class="description">
 								<h4>Comunicação Web</h4>
@@ -80,7 +80,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="classe-a.php">
+						<a href="tractebel.php">
 							<img src="images/tractebel.jpg" alt="Tractebel">
 							<div class="description">
 								<h4>Comunicação Web</h4>
