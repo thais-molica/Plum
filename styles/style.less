@@ -24,6 +24,15 @@
 @font-color: #9a9a9a;
 
 /*=======================
+  mixins
+=========================*/
+
+.transform ( @translate : translate(-50%, -50%) ) {
+  -webkit-transform: @translate;
+      -ms-transform: @translate;
+          transform: @translate; 
+}
+/*=======================
   rest
 =========================*/
 html, body, div, span, applet, object, iframe,
@@ -277,7 +286,9 @@ header nav ul li a:hover {
 footer {
   background: @primary-color;
   color: @tertiary-color;
+  margin-bottom: 20px;
   padding: 50px 0;
+  position: relative;
   h2 {
     font-family: HoboStd;
     margin-bottom: 10px;
@@ -288,15 +299,32 @@ footer {
       color: darken(@tertiary-color, 5);
     }
   }
-  .nav-left {
-    text-transform: uppercase;
-  }
   [class*="nav"] {
     display: inline-block;
+    vertical-align: top;
     width: 32.9%;
   }
   li {
     margin: 5px 0;
+  }
+  .nav-middle {
+      text-align: center;
+      li {
+          display: inline-block;
+      }
+  }
+  .nav-left {
+    text-transform: uppercase;
+    li {
+        display: block;
+    }
+  }
+  .rights {
+      .transform ( translateX(-50%) );
+      bottom: -25px;
+      color: @font-color;
+      left: 50%;
+      position: absolute;
   }
 }
 
