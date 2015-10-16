@@ -3,9 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 
-		<link rel="stylesheet" href="styles/style.css">
-		<script src="scripts/modernizr.js"></script>
-		<script src="scripts/jquery.1.8.3.js"></script>
+		<?php include 'template/assets.php'; ?>
 
 		<title>Communica Plum</title>
 	</head>
