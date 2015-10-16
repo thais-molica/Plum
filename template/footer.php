@@ -10,6 +10,7 @@
       </ul>
     </nav>
     <nav class="nav-middle">
+      <h2>Redes sociais</h2>
       <ul class="sociais">
         <li><a href="#" target="_blank"><img src="images/logo-facebook-header.png" alt="Facebook Communica Plum"></a></li>
         <li><a href="#" target="_blank"><img src="images/logo-twitter-header.png" alt="Twitter Communica Plum"></a></li>
@@ -22,4 +23,5 @@
       </address>
     </nav>
   </div>
+  <span class="rights">Todos os direitos reservados</span>
 </footer>
