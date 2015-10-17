@@ -3,14 +3,14 @@
 	<head>
 		<meta charset="UTF-8">
 
-		<?php include 'template/assets.php'; ?>
+		<?php include '../template/assets.php'; ?>
 
 		<title>Communica Plum</title>
 	</head>
 	<body>
 
 		<div id="comeco">
-			<?php include 'template/header.php'; ?>
+			<?php include '../template/header.php'; ?>
 		</div>
 
 		<!--  container -->
@@ -57,7 +57,7 @@
 			</section>
 		</div>
 		<!--  //container -->
-		<?php include 'template/footer.php'; ?>
+		<?php include '../template/footer.php'; ?>
 
 	</body>
 </html>

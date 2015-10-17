@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 
-		<?php include 'template/assets.php'; ?>
+		<?php include '../template/assets.php'; ?>
 		<script type="text/javascript" src="scripts/contato.js"></script>
 		<script type="text/javascript" src="scripts/maskedinput.min.js"></script>
 		<script type="text/javascript">
@@ -19,7 +19,7 @@
 	<body>
 
 		<div id="contato">
-			<?php include 'template/header.php'; ?>
+			<?php include '../template/header.php'; ?>
 		</div>
 
 		<!--  container -->
@@ -76,7 +76,7 @@
 
 		</div>
 		<!--  //container -->
-		<?php include 'template/footer.php'; ?>
+		<?php include '../template/footer.php'; ?>
 
 	</body>
 </html>
