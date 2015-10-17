@@ -13,10 +13,10 @@
 		<nav>
 			<div class="nav-left"></div>
 			<ul>
-				<li><a href="index.php">Do começo</a></li>
+				<li><a href="index.php" class="comeco">Do começo</a></li>
 				<li><a href="o-que-fazemos.pdf" target="_blank">O que fazemos?</a></li>
-				<li><a href="quem-ja-passou-por-aqui.php">Quem já passou por aqui?</a></li>
-				<li><a href="com-quem-eu-falo.php">Com quem eu falo?</a></li>
+				<li><a href="quem-ja-passou-por-aqui.php" class="cliente">Quem já passou por aqui?</a></li>
+				<li><a href="com-quem-eu-falo.php" class="contato">Com quem eu falo?</a></li>
 			</ul>
 			<div class="nav-right"></div>
 		</nav>

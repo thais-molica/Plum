@@ -202,7 +202,7 @@ header nav ul li a{
 
 }
 
-header nav ul li a:hover {
+header nav ul li a:hover,#comeco .comeco, #cliente .cliente, #contato .contato {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -231,7 +231,6 @@ header nav ul li a:hover {
   background: #d1d1d1;
   font: 28px myriad pro;
   margin: 10px 0;
-  padding: 20px 0;
   li {
     color: @secondary-color;
     display: inline-block;
@@ -252,8 +251,10 @@ header nav ul li a:hover {
 .call-to-blog {
   background: @tertiary-color;
   padding: 30px 15px;
-  h2 {
-    text-align: center;
+  .title-blog {
+    display: block;
+    border: none;
+    margin: 0 auto;
   }
   h3 {
     font-size: 16px;
@@ -271,16 +272,30 @@ header nav ul li a:hover {
     }
   }
   h4 {
-    color: #675d5d;
     font: 16px HoboStd;
     margin: 15px 0;
     text-transform: uppercase;
+    a{
+      color: #675d5d;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
   }
   img {
     border: 1px solid #cfcfcf;
+    &:hover{
+      opacity: 0.8;
+    }
   }
   p {
     line-height: 1.25;
+    a{
+      color: @font-color;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
   }
 }
 
@@ -322,6 +337,16 @@ footer {
     text-transform: uppercase;
     li {
         display: block;
+    }
+  }
+
+  .nav-right{
+    h2{
+      margin-left: 231px;
+    }
+    img{
+      display: block;
+      margin-left: 274px;
     }
   }
   .rights {
@@ -375,6 +400,56 @@ footer {
     }
 }
 
+/*=======================
+  clientes descrição
+=========================*/
+.client-description{
+  width: 100%;
+
+  img{
+    display: block;
+    margin:0 auto;
+  }
+
+  .text-job{
+    color: @secondary-color;
+    font-family: Arial;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  article{
+    border-bottom: 1px solid @primary-color;
+    margin-bottom: 60px;
+
+    h5{
+      color: @primary-color;
+      font-size: 20px;
+      margin-bottom: 15px;
+      text-transform: uppercase;
+    }
+
+    p{
+      color: @font-color;
+      font-size: 18px;
+      margin-bottom: 15px;
+    }
+  }
+
+  .plus{
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: @secondary-color;
+    color: @tertiary-color;
+    display: block;
+    font-size: 20px;
+    margin: 0 auto 30px auto;
+    padding: 10px 0;
+    text-align: center;
+    width: 250px;
+  }
+}
 /*=======================
   contato
 =========================*/

@@ -2,15 +2,16 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="UTF-8">
-		
+
 		<?php include 'template/assets.php'; ?>
 
 		<title>Communica Plum</title>
 	</head>
 	<body>
 
-
-		<?php include 'template/header.php'; ?>
+		<div id="comeco">
+			<?php include 'template/header.php'; ?>
+		</div>
 
 		<!--  container -->
 		<div class="wrapper">
@@ -28,31 +29,29 @@
 					Gerencia todas as estratégias da marca, suas expressões e experiências que uma pessoa pode ter com ela.</p>
 			</section>
 			<ul class="what-we-do">
-				<li>Consultoria de <strong>comunicacao</strong> integrada de <strong>marketing</strong></li>
-				<li>Realiza o diagnostico <strong>planejamento consultoria</strong> com o melhor do cliente</li>
-				<li><strong>Objetivo?</strong> entregar resultados <strong>mensuraveis</strong></li>
+				<img src="images/banner-home-central.jpg" alt="Communica Plum" width="100%">
 			</ul>
 			<section class="call-to-blog">
-				<h2>Blog Plum</h2>
+				<h2><img src="images/title-blog-plum.png" alt="Blog Plum" class="title-blog"></h2>
 				<h3>Chega mais! Fique por dentro das novidades do nosso Blog!</h3>
 				<ul>
 					<li>
-						<img src="http://dummyimage.com/310x206/000/fff" alt="">
-						<h4>Cuidando da sua identidade visual</h4>
-						<p>Construir uma marca grande, forte e desejada, é hoje o desafio da maioria das empresas.
-							Mas para isso, é preciso gerenciar experiências, expectativas e promessas que uma marca entrega as pessoas.</p>
+						<a href="#"><img src="http://dummyimage.com/310x206/000/fff" alt=""></a>
+						<h4><a href="#">Cuidando da sua identidade visual</a></h4>
+						<p><a href="#">Construir uma marca grande, forte e desejada, é hoje o desafio da maioria das empresas.
+							Mas para isso, é preciso gerenciar experiências, expectativas e promessas que uma marca entrega as pessoas.</a></p>
 					</li>
 					<li>
-						<img src="http://dummyimage.com/310x206/000/fff" alt="">
-						<h4>Cuidando da sua identidade visual</h4>
-						<p>Construir uma marca grande, forte e desejada, é hoje o desafio da maioria das empresas.
-							Mas para isso, é preciso gerenciar experiências, expectativas e promessas que uma marca entrega as pessoas.</p>
+						<a href="#"><img src="http://dummyimage.com/310x206/000/fff" alt="">
+						<h4><a href="#">Cuidando da sua identidade visual</a></h4>
+						<p><a href="#">Construir uma marca grande, forte e desejada, é hoje o desafio da maioria das empresas.
+							Mas para isso, é preciso gerenciar experiências, expectativas e promessas que uma marca entrega as pessoas.</a></p>
 					</li>
 					<li>
-						<img src="http://dummyimage.com/310x206/000/fff" alt="">
-						<h4>Cuidando da sua identidade visual</h4>
-						<p>Construir uma marca grande, forte e desejada, é hoje o desafio da maioria das empresas.
-							Mas para isso, é preciso gerenciar experiências, expectativas e promessas que uma marca entrega as pessoas.</p>
+						<a href="#"><img src="http://dummyimage.com/310x206/000/fff" alt=""></a>
+						<h4><a href="#">Cuidando da sua identidade visual</a></h4>
+						<p><a href="#">Construir uma marca grande, forte e desejada, é hoje o desafio da maioria das empresas.
+							Mas para isso, é preciso gerenciar experiências, expectativas e promessas que uma marca entrega as pessoas.</a></p>
 					</li>
 				</ul>
 			</section>

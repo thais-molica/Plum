@@ -18,13 +18,14 @@
 	</head>
 	<body>
 
-
-		<?php include 'template/header.php'; ?>
+		<div id="contato">
+			<?php include 'template/header.php'; ?>
+		</div>
 
 		<!--  container -->
 		<div class="wrapper">
 			<!--  textos contato -->
-			<div class="wrapper-internal">
+			<section class="wrapper-internal">
 				<section class="contact">
 					<h3>Com quem eu falo?</h3>
 					<span class="text-featured">“A arte de comunicar a verdadeira essência do negócio nos faz ser cada vez mais apaixonados pelo que acreditamos.”</span>
@@ -71,7 +72,7 @@
 					</div>
 					<div class="clear"></div>
 				</section>
-			</div>
+			</section>
 
 		</div>
 		<!--  //container -->

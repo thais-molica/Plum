@@ -1,3 +1,5 @@
+<!-- faviocns-->
+<link rel="icon" href="images/favicon.png">
 <!-- custom styles-->
 <link rel="stylesheet" href="styles/style.css">
 <!-- custom scritps-->

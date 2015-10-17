@@ -10,17 +10,21 @@
       </ul>
     </nav>
     <nav class="nav-middle">
-      <h2>Redes sociais</h2>
+      <h2>REDES SOCIAIS</h2>
       <ul class="sociais">
-        <li><a href="#" target="_blank"><img src="images/logo-facebook-header.png" alt="Facebook Communica Plum"></a></li>
-        <li><a href="#" target="_blank"><img src="images/logo-twitter-header.png" alt="Twitter Communica Plum"></a></li>
-        <li><a href="#" target="_blank"><img src="images/logo-pinterest-header.png" alt="Pinterest Communica Plum"></a></li>
-        <li><a href="#" target="_blank"><img src="images/logo-youtube-header.png" alt="YouTube Communica Plum"></a></li>
+        <li><a href="#" target="_blank"><img src="images/logo-facebook-footer.png" alt="Facebook Communica Plum"></a></li>
+        <li><a href="#" target="_blank"><img src="images/logo-twitter-footer.png" alt="Twitter Communica Plum"></a></li>
+        <li><a href="#" target="_blank"><img src="images/logo-pinterest-footer.png" alt="Pinterest Communica Plum"></a></li>
+        <li><a href="#" target="_blank"><img src="images/logo-youtube-footer.png" alt="YouTube Communica Plum"></a></li>
       </ul>
       <address>
         (11) 2387 -2192 / +55 (11) 99874-5610
         <a href="mailto:escrevequeeuteleio@communicaplum.com">escrevequeeuteleio@communicaplum.com</a>
       </address>
+    </nav>
+    <nav class="nav-right">
+      <h2>DESENVOLVIMENTO</h2>
+      <a href="http://www.erikprimao.com.br"><img src="images/logo-erik-primao.png" alt="Erik Primão - Desenvolvedor Front-End"></a>
     </nav>
   </div>
   <span class="rights">Todos os direitos reservados</span>

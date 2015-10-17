@@ -9,7 +9,9 @@
 	</head>
 	<body>
 
-		<?php include 'template/header.php'; ?>
+		<div id="cliente">
+			<?php include 'template/header.php'; ?>
+		</div>
 
 		<!--  container -->
 		<div class="wrapper">
@@ -17,7 +19,7 @@
 				<h3>Quem ja passou por aqui?</h3>
 				<ul>
 					<li>
-						<a href="classe-a.php">
+						<a href="cliente-classea.php">
 							<img src="images/classe-a.jpg" alt="Classe A">
 							<div class="description">
 								<h4>Comunicação Web</h4>
